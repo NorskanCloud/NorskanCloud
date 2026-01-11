@@ -1,16 +1,18 @@
-## Hi there 👋
+# Cloud & DevOps Engineer
 
-<!--
-**NorskanCloud/NorskanCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Cloud and DevOps Engineer focused on cloud infrastructure, automation,
+CI/CD pipelines, containers, and Kubernetes.
 
-Here are some ideas to get you started:
+## Core Skills
+- Cloud: AWS, Azure
+- Infrastructure as Code: Terraform
+- Containers: Docker, Kubernetes
+- CI/CD: GitHub Actions
+- Automation & Monitoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Terraform AWS Infrastructure
+- CI/CD with GitHub Actions
+- Kubernetes Deployment on Cloud
+
+This repository showcases hands-on projects built for real-world cloud environments.
